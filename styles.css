@@ -1,0 +1,36 @@
+body{
+    color: lightcoral;
+    background-image: url(https://images.unsplash.com/photo-1591806491151-73a404777045?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=956&q=80);
+}
+
+/* .container{
+    background-color: lightgrey;
+    width: 70%;
+    height: 50%;
+    margin: 30px;
+    display: flex;
+    border: 6px solid coral;
+    border-radius: 5%;
+    color: black;
+    text-align: center;
+    font-size: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+} */
+
+
+.screen{
+    background-color: lavender;
+    border: 3px solid rgba(0, 0, 0, 0.897);
+    border-radius: 10%;
+    box-shadow: 3px 2px 3px lightseagreen;
+    width: 50%;
+    height: 70px;
+    margin: auto;
+    font-size: 20px;
+
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
